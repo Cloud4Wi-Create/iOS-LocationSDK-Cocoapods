@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'c4w-location-sdk'
-s.version          = '3.0.6'
+s.version          = '3.0.7'
 s.summary          = 'Cloud4wi iOS location SDK'
 
 s.homepage        = "http://www.cloud4wi.com"
